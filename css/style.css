@@ -1,0 +1,43 @@
+body{
+  /*This rule formats your entire page. You can add background colors, fonts, and more. Start by adding a background color and a font. The margin: auto; rule centers everything on the page. More on this later!*/
+  background-color: #FFFAAD;
+    margin: auto; 
+    background-color: ; 
+    font-family: ; 
+    color: white ;
+  font-size: larger;
+  padding: 50px;
+  margin-bottom: 5px;
+  font-size: 50px;
+
+  }
+
+h1 {
+    /* This rule formats any element with a h1 tag. Start by changing the color and size of any h1 text.*/
+    font-size: ; 
+    color: ; 
+}
+
+p {
+      /* This rule formats any element with a h1 tag. Start by changing the color and size of any h1 text.*/  
+    font-size: ; 
+    color: ;  
+}
+div img {
+  align-items: center;
+}
+
+img{
+  opacity: 50%;
+  align-items: center;
+  fade-in-image { 
+    animation: fadeIn: 10s; }
+  
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+}
+
+a {
+  color: yellow;
+}
